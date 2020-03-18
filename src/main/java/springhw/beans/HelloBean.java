@@ -24,7 +24,7 @@ public class HelloBean {
 	}
 
 	//Печать объекта в строку
-	@Override
+	//@Override
 	public String toString() {
 		return "HelloBean [name=" + name + ", getName()=" + getName() + ", getClass()=" + getClass() + ", hashCode()="
 				+ hashCode() + ", toString()=" + super.toString() + "]";
